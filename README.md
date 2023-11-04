@@ -26,6 +26,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/iY9YtJa"  >
+<a href="//imgur.com/a/iY9YtJa">Project 7 - Add Task and Edit Feature</a>
+</blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/0K237Xd"  >
 <a href="//imgur.com/a/0K237Xd">Unit 7 Project: Task</a></blockquote>
 <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
