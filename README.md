@@ -1,4 +1,4 @@
-# Project 7 - *Name of App Here*
+# Unit 7 Project: Task*
 
 Submitted by: **Hevander Da Costa**
 
