@@ -4,7 +4,7 @@ Submitted by: **Hevander Da Costa**
 
 **Task** is an app that ... [TODO] 
 
-Time spent: **4** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
