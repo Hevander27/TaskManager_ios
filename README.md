@@ -27,8 +27,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/bB3JDmt"  >
-<a href="//imgur.com/a/bB3JDmt">Unit 7 Project: Task</a></blockquote>
-  
+<a href="//imgur.com/a/bB3JDmt">Unit 7 Project: Task (Closing the App )</a>
+</blockquote>
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/iY9YtJa"  >
 <a href="//imgur.com/a/iY9YtJa">Project 7 - Add Task and Edit Feature</a>
