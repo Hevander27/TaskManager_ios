@@ -25,6 +25,7 @@ The following **additional** features are implemented:
 - [X] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+<img src='https://i.imgur.com/XBtZLwn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/bB3JDmt"  >
 <a href="//imgur.com/a/bB3JDmt">Unit 7 Project: Task (Closing the App )</a>
